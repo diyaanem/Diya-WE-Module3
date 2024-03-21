@@ -12,4 +12,3 @@ Work Done:
 
 4)Wrote the code and implemented a testing strategy for the Yahtzee code using GenAI
 
-Github Repo link: https://github.com/diyaanem/Diya-WE-Module3
