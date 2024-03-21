@@ -2,6 +2,7 @@ WE-Module3: Generative AI Coursework
 This repository contains the coursework and code for the Generative AI classes taken as part of Module 3 in the WE program offered by Talentsprint and supported by Google.
 
 Work Done:
+
 1)Solved one of the computational thinking questions (Idli distribution) using GenAI
 
 2)Implemented a Markov chain model for text generation
